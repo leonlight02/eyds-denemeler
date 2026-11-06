@@ -1,0 +1,7 @@
+eyds-denemeler/
+├── exams/
+│   ├── index.json               <-- Sınav listesini tutan ana fihrist
+│   ├── angora_mini_1.json       <-- 1. Deneme sınavı
+│   ├── akindil_tg_1.json        <-- 2. Deneme sınavı
+│   └── ozgun_deneme_3.json      <-- 3. Deneme sınavı
+└── README.md
